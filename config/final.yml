@@ -2,5 +2,5 @@
 blobstore:
   provider: local
   options:
-    blobstore_path: /home/bosh-prod/pcf-mgmt/bosh-prod1
+    blobstore_path: /home/bosh-prod/pcf-mgmt/bosh-prod1/blobs
 name: telegraf-agent
