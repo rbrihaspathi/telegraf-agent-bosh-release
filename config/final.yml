@@ -2,5 +2,5 @@
 blobstore:
   provider: local
   options:
-#     blobstore_path: /home/rpothukuchi/stage-pcf4/blobs
+    blobstore_path: /home/rpothukuchi/stage-pcf4/blobs
 name: telegraf-agent
